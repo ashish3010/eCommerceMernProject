@@ -1,0 +1,6 @@
+# eCommerceMernProject
+
+Fully functioning E-Commerce website with CRUD operations using MERN stack development with paypal payment gateway using braintree sandbox...
+
+to run this website.. you can create an .env file where you can save your sensitive datas like database url, payment gateway link..
+then run npm start in both file terminals to download the respective modules...
